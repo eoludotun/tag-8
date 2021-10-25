@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/eoludotun/tag-8/compare/v2.1.0...v2.1.1) (2021-10-25)
+
+
+### Fix
+
+* patch message with tagFix ([a1d8706](https://github.com/eoludotun/tag-8/commit/a1d870602a255bb73a34e2c2e89444b4199327e6))
+
 # [2.1.0](https://github.com/eoludotun/tag-8/compare/v2.0.0...v2.1.0) (2021-10-25)
 
 
