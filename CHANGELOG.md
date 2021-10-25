@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/eoludotun/tag-8/compare/v2.0.0...v2.1.0) (2021-10-25)
+
+
+### Chore
+
+* minor release with tagChore ([7d9a8f6](https://github.com/eoludotun/tag-8/commit/7d9a8f68f39e100bfb1b9a1498c6bee5f55a2a3a))
+
 # [2.0.0](https://github.com/eoludotun/tag-8/compare/v1.0.0...v2.0.0) (2021-10-25)
 
 
