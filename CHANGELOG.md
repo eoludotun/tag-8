@@ -1,3 +1,10 @@
+# [2.0.0](https://github.com/eoludotun/tag-8/compare/v1.0.0...v2.0.0) (2021-10-25)
+
+
+### Breaking
+
+* major  bug tag-Breaking ([57e3831](https://github.com/eoludotun/tag-8/commit/57e3831fcd9157dd3820b3b443ae0fa75902c2cc))
+
 # 1.0.0 (2021-10-25)
 
 
