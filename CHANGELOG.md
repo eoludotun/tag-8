@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/eoludotun/tag-8/compare/v2.1.1...v2.2.0) (2021-10-27)
+
+
+### Update
+
+* my demo today test TEC for you ([4ec5411](https://github.com/eoludotun/tag-8/commit/4ec5411b79a20c8b7dd3e815906a2fdcd9099dc3))
+
 ## [2.1.1](https://github.com/eoludotun/tag-8/compare/v2.1.0...v2.1.1) (2021-10-25)
 
 
