@@ -1,3 +1,10 @@
+# [3.0.0](https://github.com/eoludotun/tag-8/compare/v2.2.0...v3.0.0) (2021-10-28)
+
+
+### Breaking
+
+* ben ben ben ([49ebac3](https://github.com/eoludotun/tag-8/commit/49ebac382e1cd88903cbfe4599f44d4434629bff))
+
 # [2.2.0](https://github.com/eoludotun/tag-8/compare/v2.1.1...v2.2.0) (2021-10-27)
 
 
