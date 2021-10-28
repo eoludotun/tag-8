@@ -1,3 +1,10 @@
+# [4.0.0](https://github.com/eoludotun/tag-8/compare/v3.0.0...v4.0.0) (2021-10-28)
+
+
+### Breaking
+
+* ben major ([9583f7a](https://github.com/eoludotun/tag-8/commit/9583f7a4f02664757cc694ea6e554a713cd3d1d7))
+
 # [3.0.0](https://github.com/eoludotun/tag-8/compare/v2.2.0...v3.0.0) (2021-10-28)
 
 
