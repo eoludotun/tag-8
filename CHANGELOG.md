@@ -1,3 +1,10 @@
+# [4.1.0](https://github.com/eoludotun/tag-8/compare/v4.0.0...v4.1.0) (2021-10-28)
+
+
+### Chore
+
+* ben minor ([a6bd600](https://github.com/eoludotun/tag-8/commit/a6bd6003f609073348436213fe3d0452b6eaed0f))
+
 # [4.0.0](https://github.com/eoludotun/tag-8/compare/v3.0.0...v4.0.0) (2021-10-28)
 
 
