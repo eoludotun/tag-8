@@ -16,8 +16,6 @@ jobs:
         id: semantic
         with:
           semantic_version: 16
-          extra_plugins: |
-            @semantic-release/git
           branches: |
             ['master']
         env:
