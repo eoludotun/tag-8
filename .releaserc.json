@@ -31,12 +31,12 @@
         ]
       }
     ],
-    [
-      "@semantic-release/changelog",
-      {
-        "changelogFile": "CHANGELOG.md"
-      }
-    ],
+   # [
+    #  "@semantic-release/changelog",
+     # {
+      #  "changelogFile": "CHANGELOG.md"
+      #}
+    #],
     "@semantic-release/github",
     [
       "@semantic-release/git", {
